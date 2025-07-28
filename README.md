@@ -106,3 +106,9 @@ def generate_multi_cell_channels(self, num_samples):
 - CUDA 11.7+ (if using GPU)
 - PyTorch
 ## Usage
+## Results
+## Reference
+[1] H. Sun, X. Chen, Q. Shi, M. Hong, X. Fu, and N. D. Sidiropoulos,
+“Learning to optimize: Training deep neural networks for interference
+management,” IEEE Trans. Signal Process., vol. 66, no. 20, pp. 5438–
+5453, Oct. 2018
